@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Deployed Link
+the live demo [https://autonomize-products-main.onrender.com/](https://autonomize-products-main.onrender.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
